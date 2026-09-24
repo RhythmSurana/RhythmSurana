@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="38%" align="center" valign="middle">
-      <img src="photo.png.png" width="100%" alt="Profile Avatar" />
+      <img src="rhythm_co-organiser.jpeg" width="100%" alt="Profile Avatar" />
     </td>
     <td width="62%" valign="top">
       <h3>About</h3>
