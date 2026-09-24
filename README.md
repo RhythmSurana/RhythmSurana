@@ -16,8 +16,8 @@
         <li>Electronics & Telecommunication Engineering undergrad at <b>IET-DAVV</b> (CGPA: 9.12/10).</li>
         <li>Specializing in <b>Data Science, Generative AI (RAG), and Machine Learning Pipelines</b>.</li>
         <li>Former IT Intern at <b>Indore Municipal Corporation</b> & Python Developer Intern at <b>Kraft Creation</b>.</li>
-        <li><b>Overall Coordinator</b> at Google Developer Groups on Campus (GDG) IET DAVV.</li>
-        <li>Practicing DSA, OOP, and problem-solving in <b>C++</b>.</li>
+        <li><b>Co-Head</b> at Google Developer Groups on Campus (GDG) IET DAVV.</li>
+        <li>Practicing DSA, OOP and problem-solving in <b>C++</b>.</li>
         <li>Reach me: <b>rhyts.surana@gmail.com</b> · <a href="https://linkedin.com/in/rhythmsurana">LinkedIn</a></li>
       </ul>
     </td>
@@ -56,7 +56,7 @@
 * **Information Technology Intern** @ *Indore Municipal Corporation* (Feb 2026 – May 2026)
 * **Python Developer Intern** @ *Kraft Creation* (July 2024 – Sep 2025)
 * **Student Lead** @ *Admission Cell, IET-DAVV* (June 2024 – Present)
-* **Overall Coordinator** @ *Google Developer Groups on Campus IET DAVV* (July 2025 – Present)
+* **Co-Head/ Co-Organiser** @ *Google Developer Groups on Campus IET DAVV* (July 2025 – Present)
 * **Public Relations Co-Lead** @ *E-Cell IET DAVV* (Dec 2025 – Present)
 
 ---
